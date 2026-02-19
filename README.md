@@ -19,6 +19,24 @@ The final output includes:
 
 ---
 
+---
+
+## 📁 Dataset Information
+
+The original dataset used for analysis contained a larger volume of transactional records.
+
+Due to GitHub file size limitations, a smaller sample dataset has been uploaded in this repository for demonstration purposes.
+
+The sample dataset:
+- Preserves the original schema and structure
+- Contains representative vendor and brand records
+- Allows full reproducibility of KPI calculations and dashboard logic
+
+All analysis logic, KPI computation, and dashboard metrics were originally validated on the complete dataset.
+
+---
+
+
 ## 🎯 Business Problem
 
 Organizations need visibility into:
